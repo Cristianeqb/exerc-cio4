@@ -55,4 +55,7 @@ Abra um terminal dentro do Visual Studio Code e execute:
 ## Estrutura do Projeto
 Componentes: O componente InvestmentCard está localizado na pasta src/components.
 Testes: Os testes estão na pasta src/__tests__.
+<<<<<<< HEAD
 "# react_native_test_integration-main" 
+=======
+>>>>>>> dedba18ff93ef74358792e7705ae65a8a68a60fc
